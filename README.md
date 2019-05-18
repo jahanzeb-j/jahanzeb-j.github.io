@@ -1,3 +1,3 @@
 # github.io pages
 
-(jahanzeb-j.github.io)GO
+https://jahanzeb-j.github.io
