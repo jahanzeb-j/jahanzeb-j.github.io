@@ -1,3 +1,3 @@
 # github.io pages
 
-jahanzeb-j.github.io/page
+(jahanzeb-j.github.io)GO
